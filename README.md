@@ -60,7 +60,7 @@ This repo is for:
 ## ⚙️ How to use
 
 1. Clone the repo
-2. Explore problems inside `/problems`
+2. Explore problems inside `root`
 3. Read, run, tweak, and understand
 4. Practice by solving it your own way!
 
