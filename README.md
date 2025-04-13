@@ -39,7 +39,6 @@ This is more than DSA – it's **"Frontend + Brain = Fire"** 🔥
 
 Each problem folder includes:
 
-- ✅ Problem statement (`README.md`)
 - ✅ Optimized solution (`.js` / `.tsx` / `.ts`)
 - ✅ Edge case handling
 - ✅ Clear comments and code clarity
