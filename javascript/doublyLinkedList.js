@@ -137,7 +137,7 @@ class DoublyLinkedList {
         }
         return result;
     }
-    print() {
+    printList() {
         console.log(this.toArray().join(" <-> "));
     }
     size() {
@@ -153,10 +153,10 @@ list.append(10);
 list.append(20);
 list.prepend(5);
 list.insertAt(1, 8); // Insert 8 at index 1
-list.print(); // 5 <-> 8 <-> 10 <-> 20
+list.printList(); // 5 <-> 8 <-> 10 <-> 20
 list.removeAt(2); // Remove 10
 list.reverse(); // Reverse the list
-list.print(); // 20 <-> 8 <-> 5
+list.printList(); // 20 <-> 8 <-> 5
 console.log("Index of 8:", list.indexOf(8)); // 1
 console.log("Size:", list.size()); // 3
 list.clear();
